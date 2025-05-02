@@ -1,10 +1,21 @@
 ---
-title: Links
+title: Docs
 links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  - title: Resume - Controls and Dynamics
+    description: Academic portfolio.
+    website: https://drive.google.com/file/d/1oVxNOoFaMYfCqdK8sNW3-5-9mS2xQ2gJ/view?usp=sharing
+    image: /img/pdf.png
+  
+  - title: Resume - Embedded and Hardware
+    description: Academic portfolio.
+    website: https://drive.google.com/file/d/1oVxNOoFaMYfCqdK8sNW3-5-9mS2xQ2gJ/view?usp=sharing
+    image: /img/pdf.png
+
+  - title: Resume - Controls and ML
+    description: Academic portfolio.
+    website: https://drive.google.com/file/d/1oVxNOoFaMYfCqdK8sNW3-5-9mS2xQ2gJ/view?usp=sharing
+    image: /img/pdf.png
+
 menu:
     main: 
         weight: 4
@@ -14,7 +25,7 @@ menu:
 comments: false
 ---
 
-To use this feature, add `links` section to frontmatter.
+<!-- To use this feature, add `links` section to frontmatter.
 
 This page's frontmatter:
 
@@ -30,4 +41,4 @@ links:
     image: ts-logo-128.jpg
 ```
 
-`image` field accepts both local and external images.
+`image` field accepts both local and external images. -->
